@@ -9,3 +9,5 @@ hp = maxhp - damage
 print ("Has sufrido "+ str(damage) +" de daño, tienes " + str(hp) + " de vida restante")
 if hp <= 0:
 	print ("Has muerto")
+
+#Añado texto al final para ver si se guarda el commit.
